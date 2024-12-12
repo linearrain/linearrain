@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linearrain
 - 👀 I’m interested in networking (just started) and low level programming
-- 🌱 I’m currently learning Rust, Go and Networking
+- 🌱 I’m currently learning Go and Networking
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: you cannot make an Eastern European and CS student smile. Especially, when it is one person.
 
