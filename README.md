@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @linearrain
-- 👀 I’m interested in networking (just started) and low level programming
+- 👀 I’m interested in Networking (just started) and Media Streaming
 - 🌱 I’m currently learning Go and Networking and not being toxic while being involved to Computer Science
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: you cannot make an Eastern European and CS student smile. Especially, when it is one person.
 
 <!---
