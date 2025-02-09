@@ -1,17 +1,22 @@
-## 👋 Hi, I’m @linearrain, interested in Networking and Midlevel Programming. Some of my progress captured there.
+## 👋 Hi, I am @linearrain, interested in Networking and Midlevel Programming. Some of my progress is captured there.
+
+# Human Verbal Interaction
+My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 / B2), Slovak (B1 / B2), Czech (only understand, do not speak in, sadly)
 
 # Certifications and Education
 
 - CCNA1 Course (Networking) [https://www.credly.com/badges/f6ca0120-1e64-460e-aa2e-15d56abd2264/public_url]
 - STU FIIT (Slovak Technical University in Bratislava) *\[in process, 2nd year\]*
 
-# Technologies
+# ✨ Technologies
 
-## Languages I have used before:
-- Python (average, priority for the nearest future)
-- Golang (beginner, current priority)
-- Rust (beginner, priority for the nearest future)
-<!--- - JavaScript (average) --->
+## Programming Languages:
+- **Python (average, current priority)**
+- **Golang (beginner, current priority)**
+- **Rust (beginner, current priority)**
+- JavaScript (average)
+- C++ (between basic and average)
+- Java (basic)
 
 ## Tools:
 
@@ -19,7 +24,7 @@
 - Linux (moderate, Arch-based distros are preferred)
 - Virtual Machines [Hypr-V, Oracle Virtualbox] (average)
 - Wireshark / Packet Analysing (more-or-less moderate for crucial TCP/IP protocols)
-- LibreOffice
+- Microsoft + LibreOffice packets
 - Markdown (average, as it is very easy)
 
 <!---
