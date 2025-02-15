@@ -1,7 +1,7 @@
 ## 👋 Hi, I am @linearrain, interested in Networking and Midlevel Programming. Some of my progress is captured there.
 
 # Human Verbal Interaction
-My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 / B2), Slovak (B1 / B2), Czech (only understand, do not speak in, sadly)
+My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 / B2), Slovak (B1 / B2), Czech (do not speak in, but will understand you)
 
 # Certifications and Education
 
