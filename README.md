@@ -13,7 +13,8 @@ My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 
 ## Programming Languages:
 - **Python (average, current priority)**
 - **Golang (beginner, current priority)**
-- **Rust (beginner, current priority)**
+- **Rust (beginner-average, current priority)**
+- **TypeScript (beginner, current priority)**
 - JavaScript (average)
 - C++ (between basic and average)
 - Java (basic)
