@@ -10,14 +10,19 @@ My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 
 
 # ✨ Technologies
 
-## Programming Languages:
+## Programming Languages / Technologies:
+### Back-End:
 - **Python (average, current priority)**
 - **Golang (beginner, current priority)**
 - **Rust (beginner-average, current priority)**
+- **JavaScript (average)**
 - **TypeScript (beginner, current priority)**
-- JavaScript (average)
+- **SQL (average)**
+- **Java (basic)**
+### Front-End:
+- **Svelte (beginner, current priority)**
+### Misc:
 - C++ (between basic and average)
-- Java (basic)
 
 ## Tools:
 
@@ -27,6 +32,7 @@ My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 
 - Wireshark / Packet Analysing (more-or-less moderate for crucial TCP/IP protocols)
 - Microsoft + LibreOffice packets
 - Markdown (average, as it is very easy)
+- Databases (beginner-average, used Postgres)
 
 <!---
 linearrain/linearrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
