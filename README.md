@@ -20,11 +20,12 @@ My knowledge is currently limited to:
 - **Python (average, used for scripts and servers)**
 - **Golang (beginner, current priority, written the [Chillbird Radio Server](github.com/linearrain/chillbird-radio-server) in it)**
 - **Rust (beginner-average, used for low-level networking projects)**
-- **JavaScript + TS (average, used in front-end parts of my Svelte applications)**
+- **TypeScript (beginner-average, used for seamless communication with the server-side mainly)** 
 - **SQL (average)**
 - **Java (basic)**
 ### Front-End:
 - **Svelte (beginner, current priority)**
+- **JavaScript + TS (average, used in front-end parts of my Svelte applications)**
 ### Misc:
 - C++ (between basic and average)
 
@@ -41,7 +42,8 @@ My knowledge is currently limited to:
 ## Currently Learning
 
 - **Docker**
-- Continuing the **Golang** journey
+- **Golang**
+- **TypeScript**
 - **CI/CD**
 - **AWS**
 
