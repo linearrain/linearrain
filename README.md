@@ -1,7 +1,12 @@
 ## 👋 Hi, I am @linearrain, interested in Networking and Midlevel Programming. Some of my progress is captured there.
 
 # Human Verbal Interaction
-My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 / B2), Slovak (B1 / B2), Czech (do not speak in, but will understand you)
+My knowledge is currently limited to: 
+- **Ukrainian** (C1)
+- **Russian** (C1)
+- **English** (B1 / B2)
+- **Slovak** (B1 / B2)
+- **Czech** (do not speak in, but will understand you)
 
 # Certifications and Education
 
@@ -12,11 +17,10 @@ My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 
 
 ## Programming Languages / Technologies:
 ### Back-End:
-- **Python (average, current priority)**
-- **Golang (beginner, current priority)**
-- **Rust (beginner-average, current priority)**
-- **JavaScript (average)**
-- **TypeScript (beginner, current priority)**
+- **Python (average, used for scripts and servers)**
+- **Golang (beginner, current priority, written the [Chillbird Radio Server](github.com/linearrain/chillbird-radio-server) in it)**
+- **Rust (beginner-average, used for low-level networking projects)**
+- **JavaScript + TS (average, used in front-end parts of my Svelte applications)**
 - **SQL (average)**
 - **Java (basic)**
 ### Front-End:
@@ -34,6 +38,16 @@ My knowledge is currently limited to: Ukrainian (C1), Russian (C1), English (B1 
 - Markdown (average, as it is very easy)
 - Databases (beginner-average, used Postgres)
 
+## Currently Learning
+
+- **Docker**
+- Continuing the **Golang** journey
+- **CI/CD**
+- **AWS**
+
+## Future Considerations
+
+- **Kubernetes**
 <!---
 linearrain/linearrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
