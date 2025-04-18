@@ -18,7 +18,7 @@ My knowledge is currently limited to:
 ## Programming Languages / Technologies:
 ### Back-End:
 - **Python (average, used for scripts and servers)**
-- **Golang (beginner, current priority, written the [Chillbird Radio Server](github.com/linearrain/chillbird-radio-server) in it)**
+- **Golang (beginner, current priority, written the [Chillbird Radio Server](https://github.com/linearrain/chillbird-radio-server) in it)**
 - **Rust (beginner-average, used for low-level networking projects)**
 - **TypeScript (beginner-average, used for seamless communication with the server-side mainly)** 
 - **SQL (average)**
