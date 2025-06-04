@@ -4,7 +4,7 @@
 My knowledge is currently limited to: 
 - **Ukrainian** (C1)
 - **Russian** (C1)
-- **English** (B1 / B2)
+- **English** (B2)
 - **Slovak** (B1 / B2)
 - **Czech** (do not speak in, but will understand you)
 
